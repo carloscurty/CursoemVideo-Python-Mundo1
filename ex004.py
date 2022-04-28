@@ -1,6 +1,7 @@
 # Exercício 004 - Python/Mundo 1
 # Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
+print('Exercício 004 - Python/Mundo 1')
 expr = input('Digite algo: ')
 msg = ''
 exp = list(expr)
