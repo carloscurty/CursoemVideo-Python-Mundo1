@@ -10,4 +10,10 @@ Repositório com os exercícios e desafios do curso de Python (Mundo 1)
 ![image](https://user-images.githubusercontent.com/68711113/165766378-1ceb8ab2-eabd-40ca-a15d-3cf60e612c36.png)
 
 
+<br>
+<a href="https://carloscurty.github.io"><img src="https://user-images.githubusercontent.com/68711113/165812595-fe81c81e-05fa-4787-a39a-3067d738ac68.png" alt="seta voltar" width="100"/></a>
 
+
+~~~
+Copyright 2022 @ Carlos Curty - Todos os direitos reservados
+~~~
