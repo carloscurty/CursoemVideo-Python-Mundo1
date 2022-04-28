@@ -2,11 +2,13 @@
 
 Repositório com os exercícios e desafios do curso de Python (Mundo 1)
 
-- Ex004: Dissecando uma variável - [Código](https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/3f1c810214ad8b5a3b8413363e82ca54637ea13f/ex004.py)<br>
+#### Ex004: Dissecando uma variável - [Código](https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/3f1c810214ad8b5a3b8413363e82ca54637ea13f/ex004.py)<br>
 ![image](https://user-images.githubusercontent.com/68711113/165763293-30fa2483-5dfb-4d0b-934a-e5beccbc16c5.png)
-- Ex005: Antecessor e sucessor - [Código](https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/6069c14a18d7eef52608ee7de3031725c81d3967/desafio005.py)<br>
+
+#### Ex005: Antecessor e sucessor - [Código](https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/6069c14a18d7eef52608ee7de3031725c81d3967/desafio005.py)<br>
 ![image](https://user-images.githubusercontent.com/68711113/165765664-cfb1d42f-6bdd-4dc7-9bfb-43b6a1ee5e41.png)
-- Ex006: Dobro, triplo e Raiz Quadrada - [Código](https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/6069c14a18d7eef52608ee7de3031725c81d3967/desafio%20006.py)<br>
+
+#### Ex006: Dobro, triplo e Raiz Quadrada - [Código](https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/6069c14a18d7eef52608ee7de3031725c81d3967/desafio%20006.py)<br>
 ![image](https://user-images.githubusercontent.com/68711113/165766378-1ceb8ab2-eabd-40ca-a15d-3cf60e612c36.png)
 
 
