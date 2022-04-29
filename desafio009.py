@@ -1,3 +1,5 @@
+# Desafio:
+
 print('Desafio 009: Mostrando a tabuada de um número')
 
 num = int(input('Digite um número inteiro: '))
