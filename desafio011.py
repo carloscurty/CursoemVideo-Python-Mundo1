@@ -4,5 +4,5 @@ l = float(input('Qual a largura da parede? '))
 h = float(input('Qual a altura da parede? '))
 a = l * h
 lt = a / 2
-
-print('Levando em conta que cada litro de tinta pinta 2m², \nvocê irá precisar de {} litro(s) de tinta para pintar a sua parede de {} m² de área'.format(lt, a))
+print('-'*51)
+print('Levando em conta que cada litro de tinta pinta 2m², \nvocê irá precisar de {:.1f} litro(s) de tinta\npara pintar a sua parede de {:.1f} m² de área'.format(lt, a))

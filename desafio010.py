@@ -1,3 +1,5 @@
+# Desafio 010: Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quando dólares ela pode comprar
+
 print('Desafio 010: Conversão de reais em dólares')
 
 real = float(input('Digite o valor em R$: '))
