@@ -40,6 +40,43 @@ Repositório com os exercícios e desafios do curso de Python (Mundo 1)
 
 ![image](https://user-images.githubusercontent.com/68711113/165959193-6ebb5a2c-c086-45ef-bc48-f6ea81285b28.png)
 
+### ➡ Conversão de reais em dólares (010)
+
+*<a href="https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/desafio010.py">Script Python</a>*
+
+![image](https://user-images.githubusercontent.com/68711113/166233729-5befdaeb-3c22-4568-b0e8-392ea52ec424.png)
+
+### ➡ Cálculo de área (011)
+
+*<a href="https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/desafio011.py">Script Python</a>*
+
+![image](https://user-images.githubusercontent.com/68711113/166234735-5963cd08-72b6-418c-ad69-6f177dbb64ed.png)
+
+### ➡ Cálculo de preço com desconto (012)
+
+*<a href="https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/desafio012.py">Script Python</a>*
+
+![image](https://user-images.githubusercontent.com/68711113/166235329-3b7d175e-1320-4d27-8c26-7bac4d2ba14f.png)
+
+### ➡ Cálculo de preço com desconto (013)
+
+*<a href="https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/desafio013.py">Script Python</a>*
+
+![image](https://user-images.githubusercontent.com/68711113/166235839-0064596c-2341-4e67-8aba-143467d71aa0.png)
+
+### ➡ Conversão de ºC para ºF (014)
+
+*<a href="https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/desafio014.py">Script Python</a>*
+
+![image](https://user-images.githubusercontent.com/68711113/166237126-7c106170-33f8-4a69-af61-dc2e9f91bf2a.png)
+
+### ➡ Cáluclo de diária de aluguel de carros (015)
+
+*<a href="https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/desafio015.py">Script Python</a>*
+
+![image](https://user-images.githubusercontent.com/68711113/166240251-b6cc4972-ab18-4f3c-b979-817f7708a7db.png)
+
+
 <br>
 <a href="https://carloscurty.github.io"><img src="https://user-images.githubusercontent.com/68711113/165831130-798ed958-d7d9-48ec-a6b5-1e0f19f92dff.png" alt="seta voltar" width="100"/></a>
 
