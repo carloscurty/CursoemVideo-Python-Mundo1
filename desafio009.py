@@ -2,12 +2,12 @@
 
 print('Desafio 009: Mostrando a tabuada de um número')
 
-num = int(input('Digite um número inteiro: '))
+num = int(input('Digite um número <1 - 10>: '))
+
+print('=' * 13)
 print('Tabuada de {}:'.format(num))
+print('-' * 13)
 for x in range(1, 11):
-    if (num * x) < 9: m = ' ' + str(num * x)
-    else: m = num * x
-    if x == 10:
-        print('{}  X {}  = \t{}'.format(num, x, m))
-    else:
-        print('{}  X  {}  = \t{}'.format(num, x, m))
+    m = num * x
+    print('{} X  {:2} = {:2}'.format(num, x, m))
+print('=' * 13)
