@@ -95,6 +95,14 @@ Quebrando um número
 
 ![image](https://user-images.githubusercontent.com/68711113/167225067-3eab2881-5412-4a42-9b3d-d6185793d6bc.png)
 
+### ➡ 017
+Cálculo da hipotenusa de um triângulo retângulo
+
+*<a href="https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/ex017.py">Script Python</a>*
+
+![image](https://user-images.githubusercontent.com/68711113/167275071-da9a023e-f463-44cc-b990-6858cc4ceb23.png)
+
+
 
 <br>
 <a href="https://carloscurty.github.io"><img src="https://user-images.githubusercontent.com/68711113/165831130-798ed958-d7d9-48ec-a6b5-1e0f19f92dff.png" alt="seta voltar" width="100"/></a>
