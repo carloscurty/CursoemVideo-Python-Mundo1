@@ -102,6 +102,12 @@ Cálculo da hipotenusa de um triângulo retângulo
 
 ![image](https://user-images.githubusercontent.com/68711113/167275071-da9a023e-f463-44cc-b990-6858cc4ceb23.png)
 
+### ➡ 018
+Cálculo de Seno, Cosseno e Tangente de um ângulo
+
+*<a href="https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/ex018.py">Script Python</a>*
+
+![image](https://user-images.githubusercontent.com/68711113/167275415-208d1493-f9c4-48b9-8274-c6eea5eaa7f7.png)
 
 
 <br>
