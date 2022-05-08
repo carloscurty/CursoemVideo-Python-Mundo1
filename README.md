@@ -109,6 +109,13 @@ Cálculo de Seno, Cosseno e Tangente de um ângulo
 
 ![image](https://user-images.githubusercontent.com/68711113/167275415-208d1493-f9c4-48b9-8274-c6eea5eaa7f7.png)
 
+### ➡ 019
+Sorteio de um item de uma lista
+
+*<a href="https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/ex019.py">Script Python</a>*
+
+![image](https://user-images.githubusercontent.com/68711113/167276126-2e2f3a06-2d55-4958-aa68-53a9f65f64ea.png)
+
 
 <br>
 <a href="https://carloscurty.github.io"><img src="https://user-images.githubusercontent.com/68711113/165831130-798ed958-d7d9-48ec-a6b5-1e0f19f92dff.png" alt="seta voltar" width="100"/></a>
