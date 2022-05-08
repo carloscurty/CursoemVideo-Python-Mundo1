@@ -116,6 +116,13 @@ Sorteio de um item de uma lista
 
 ![image](https://user-images.githubusercontent.com/68711113/167276126-2e2f3a06-2d55-4958-aa68-53a9f65f64ea.png)
 
+### ➡ 020
+Embaralhando uma lista
+
+*<a href="https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/ex020.py">Script Python</a>*
+
+![image](https://user-images.githubusercontent.com/68711113/167276505-e677d28a-e0dc-4b44-b8b9-e3c7468a06b4.png)
+
 
 <br>
 <a href="https://carloscurty.github.io"><img src="https://user-images.githubusercontent.com/68711113/165831130-798ed958-d7d9-48ec-a6b5-1e0f19f92dff.png" alt="seta voltar" width="100"/></a>
